@@ -15,7 +15,7 @@ You input the total number of months, monthly rent, free months, monthly utiliti
 
 ## Usage
 
-1. **Clone the Repository**:
+1. **Clone the Repository**<br>
    Clone the repository to your local machine:
 
    ```bash
@@ -23,12 +23,12 @@ You input the total number of months, monthly rent, free months, monthly utiliti
    cd rent_calculator
    ```
 
-2. **Build the Project**:
+2. **Build the Project**<br>
    Build the project to resolve dependencies and create an executable:
    ```bash
    cargo build --release
    ```
-3. **Running Tests**:
+3. **Running Tests**<br>
    Run the tests to ensure everything is working correctly:
 
    ```bash
@@ -37,7 +37,7 @@ You input the total number of months, monthly rent, free months, monthly utiliti
 
    ![test](test.png)
 
-4. **Run the CLI Tool**:
+4. **Run the CLI Tool**<br>
    After building, run the tool by providing the required arguments:
 
    ```bash
