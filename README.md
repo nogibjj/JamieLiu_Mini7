@@ -35,6 +35,8 @@ You input the total number of months, monthly rent, free months, monthly utiliti
    cargo test
    ```
 
+   ![test](test.png)
+
 4. **Run the CLI Tool**:
    After building, run the tool by providing the required arguments:
 
@@ -43,7 +45,7 @@ You input the total number of months, monthly rent, free months, monthly utiliti
    ```
 
    For example:
-   ![output](image.png)
+   ![output](output.png)
 
 ---
 
