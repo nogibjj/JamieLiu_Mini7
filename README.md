@@ -63,3 +63,6 @@ clap = { version = "4.5.20", features = ["derive"] }
 Cargo will automatically install dependencies when building the project.
 
 ---
+
+## Binary Download Link
+https://github.com/nogibjj/JamieLiu_Mini7/actions/runs/11490520163/artifacts/2096578043
