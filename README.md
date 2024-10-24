@@ -1,5 +1,7 @@
 # Rent Calculator CLI
 
+[![CI](https://github.com/nogibjj/JamieLiu_Mini7/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/JamieLiu_Mini7/actions/workflows/CI.yml)
+
 ## What This CLI Does
 
 The Rent Calculator CLI helps you compute:
