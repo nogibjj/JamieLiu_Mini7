@@ -8,7 +8,7 @@ pub fn rent_calculator(
 ) -> (f64, f64) {
     // Ensure we don't divide by zero
     if *months == 0 {
-        return (0.0, 0.0);  // Return 0 for both total spent and net monthly expense
+        return (0.0, 0.0); // Return 0 for both total spent and net monthly expense
     }
 
     let total_rent = (*months - *free_months_rent) as f64 * *monthly_rent;
@@ -20,7 +20,6 @@ pub fn rent_calculator(
 
     (total_spent, net_monthly_expense)
 }
-
 
 #[cfg(test)]
 mod tests {

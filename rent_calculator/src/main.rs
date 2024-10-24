@@ -5,7 +5,10 @@ use rent_calculator::rent_calculator;
 
 /// CLI arguments for the rent calculator
 #[derive(Parser)]
-#[command(name = "Rent Calculator", about = "Calculate total and monthly rent expenses")]
+#[command(
+    name = "Rent Calculator",
+    about = "Calculate total and monthly rent expenses"
+)]
 struct Cli {
     /// Number of months to rent
     months: u32,
